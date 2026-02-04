@@ -168,6 +168,13 @@ splitscreen={
 ]
 }
 
+[input_devices ]
+
+virtual_controller/ios/enable_controller=true
+virtual_controller/ios/enable_right_thumbstick=false
+virtual_controller/ios/enable_button_b=false
+virtual_controller/ios/enable_button_y=false
+
 [layer_names]
 
 2d_physics/layer_1="player"
